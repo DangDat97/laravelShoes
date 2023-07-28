@@ -1,0 +1,14 @@
+.title {
+    background-image: url(../images/breadcrumb-banner.webp);
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
